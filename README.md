@@ -1,14 +1,18 @@
-# Landing page
+# The MET Landing Page
 
-Choose a design for your landing page:
-- [MET landing](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET)
-- [MYBIKE landing](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
-- [B&O](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6817-212&t=ZTV6Gl8NzaWkJ4FK-0)
-- [Nothing](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6802-139&t=L7eKz5YKLN0m5WxR-0)
+Landing page that provides users with information about a famous art museum in New York City, known as The Metropolitan Museum of Art. 
 
-Follow the videos in this and next lessons to implement the page block by block
-- Here is [the design from the video](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6703-88&t=L7eKz5YKLN0m5WxR-0)
-- Start writing styles in the `main.scss` file. It is be explained in the `Sass` lesson
-- **DON'T** try to do it `Pixel Perfect` - implement it the most `simple` way so it looks similar;
-- When done check yourself using the [CHECKLIST](./checklist.md) when finished;
-- Deploy and create a Pull Request with a [DEMO LINK](https://<your_account>.github.io/layout_landing/)
+Used technologies: 
+- Sass, HTML5. The project was created with the goal of improving CSS Grid layout skills and deepening knowledge of working with Sass. 
+
+Installation:
+- Open any code editor
+- If you are using VScode, just open a new terminal with "Ctrl + `"
+- Clone the project from GitHub (Open Repo, click a green button "Code", copy and paste into terminal in VScode with "git clone [url]"
+- Start the project with "npm start"
+
+Demo Link:
+- https://serhii-dr.github.io/layout_landing-page/
+
+Figma template:
+- https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET?type=design&node-id=8590-29&t=ZoJghUOJRln6f9Jx-0
